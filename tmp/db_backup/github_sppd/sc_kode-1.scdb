@@ -1,0 +1,1 @@
+<?php$scDb->Sql(" INSERT INTO `sc_kode` VALUES('-02-20/sppd/creative','1')" ) ; $scDb->Sql(" INSERT INTO `sc_kode` VALUES('-09-15/sppd/creative','1')" ) ; $scDb->Sql(" INSERT INTO `sc_kode` VALUES('-10-15/sppd/creative','1')" ) ; $scDb->Sql(" INSERT INTO `sc_kode` VALUES('-11-15/sppd/creative','2')" ) ; ?>
